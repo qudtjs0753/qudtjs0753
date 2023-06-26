@@ -16,6 +16,7 @@
    <img src="https://camo.githubusercontent.com/b184cf7adbab9f5464e80c0f5dd32c85393f6248499a57d743e619f4214391c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465">
 </div>
 
+- [notion](https://www.notion.so/Portfolio-9e4dff7991e04262b61c5bf77608c13c?pvs=4)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kbs_seon)](https://solved.ac/{handle})
 <img src="https://github-readme-stats.vercel.app/api?username=qudtjs0753&show_icons=true">
