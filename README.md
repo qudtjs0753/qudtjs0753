@@ -3,8 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Nice%20To%20Meet%20You!)
 
-## 개인 토이프로젝트
-- Docker와 ELK, filebeat를 활용한 모니터링 파이프라인 구축
 
 ## Activities
 - `2017.02 ~ 2023.02` : Seoul national university of science and education
