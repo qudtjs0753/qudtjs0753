@@ -1,6 +1,6 @@
 Hello 👋. My name is Byungseon Kang. I'm Backend Developer. <br>
 🌱 I'm interested in OOP and Database. <br>
-[📫 this is my resume.](https://purrfect-fisherman-d0b.notion.site/c86e92de02e542fcb25ec97819205f0f?pvs=4)
+[📫 this is my resume.](https://kbseon.notion.site/c86e92de02e542fcb25ec97819205f0f?pvs=4)
 
 ## Activities
 - `2017.02 ~ 2023.02` : Seoul national university of science and education
